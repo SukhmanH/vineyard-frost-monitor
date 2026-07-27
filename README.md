@@ -138,4 +138,10 @@ input to a decision that a crop depends on.
 
 ## License
 
-MIT
+Copyright (C) 2026 Sukhman Herr
+
+Licensed under the GNU General Public License v3.0. You may use, modify, and
+redistribute this firmware, but any derivative work must also be released under
+the GPL-3.0. See [LICENSE](LICENSE).
+
+For commercial licensing outside these terms, contact the author.
